@@ -1,8 +1,32 @@
 ---
-title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: '/images/Victor_Hugo-Hunchback.jpg'
----
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+title: About
+description: The author finally got around to create a blog, and he also likes cats,
+  especially Nyan-cats.
+featured_image: "/uploads/2018/05/02/Unknown.png"
 
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+---
+{{< figure src="/uploads/2018/05/02/Unknown.png" title="Featuring, \\"The Nyan-Cat\\", 2011" >}}
+
+Hello world!
+
+Hi there, welcome to my humble little blog,
+
+There isn’t much here right now, but be sure to check back every Sunday, because content will be published every week before Sunday.
+
+Stuff to watch out for in the future
+
+There are a lot of content waiting to be published, just listing a few:
+
+* Programming
+* Math
+* Learning languages, French especially
+* Color Blindness
+* DIY Projects
+* Dvorak keyboard layout
+* Warhammer 40k Orks Miniatures
+* Boardgames, mostly europeans
+* Chess
+* Bitcoin
+* Machine Learning
+* Weiqi/Go/Baduq
+* Suggest one!
