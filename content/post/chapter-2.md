@@ -1,8 +1,10 @@
 ---
 title: 'Chapter II: Pierre Gringoire'
-date: 2017-04-10T15:00:59.000Z
-thumbnail: /uploads/dtdqpp9xcaaprq6.jpg_large.jpg
-rating: '1'
+date: 2017-04-10 15:00:59 +0000
+thumbnail: "/uploads/dtdqpp9xcaaprq6.jpg_large.jpg"
+rating: 1
+draft: true
+
 ---
 Nevertheless, she persisted. As be harangued them, the satisfaction and admiration
 unanimously excited by his costume were dissipated by his words; and when
