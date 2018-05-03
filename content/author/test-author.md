@@ -1,5 +1,6 @@
 ---
-title: Test Author
----
+title: Uriel Tan
+type: Author of this blog
 
-Bio goes here.
+---
+Hi, I'm Uriel.
