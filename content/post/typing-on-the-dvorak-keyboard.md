@@ -5,7 +5,6 @@ tags:
 - Random
 featured_image: "/uploads/2018/05/03/900px-KB_United_States_Dvorak.svg.png"
 description: My adventure in typing on a new keyboard layout
-draft: true
 
 ---
 #### Introduction
