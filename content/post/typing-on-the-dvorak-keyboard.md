@@ -9,8 +9,6 @@ description: My adventure in typing on a new keyboard layout
 ---
 #### Introduction
 
-{{< figure src="/uploads/2018/05/03/900px-KB_United_S_" titl_" >}}
-
 Not many people know about this keyboard layout called the Simplified Dvorak layout. It was developed by Dr Dvorak and subsequently patented in 1936. Dvorak claims the layout to have lesser finger motion and reduces mistakes as compared to the Qwerty layout. However, this is not widely adopted perhaps because of the ratchet effect, where people had already adopted the Qwerty layout and are not willing to change as this takes retraining and even changing out typewriters.
 
 #### Why use Dvorak? I can already touch-type on qwerty.
